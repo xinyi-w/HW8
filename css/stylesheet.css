@@ -1,0 +1,13 @@
+body{ background-color: #f9c5bb;}
+
+img { padding: 10px;
+    border: 1px solid black;
+    
+}
+
+.highlight{
+    color: purple;
+    background-color: rgb(240, 186, 138);
+    padding: 10px;
+    margin: 50px;
+}
