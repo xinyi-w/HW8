@@ -13,3 +13,6 @@ img { padding: 10px;
 }
 
 h2 { font-style: italic;}
+
+a:link {text-decoration: none; color: black;}
+a:hover {text-decoration: underline; color: orange}
