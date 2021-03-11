@@ -14,5 +14,12 @@ img { padding: 10px;
 
 h2 { font-style: italic;}
 
+main{
+    margin:25px;
+    background-color: white;
+    padding: 25px;
+}
+nav {background-color: plum;}
+
 a:link {text-decoration: none; color: black;}
 a:hover {text-decoration: underline; color: orange}
