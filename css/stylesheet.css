@@ -7,19 +7,26 @@ img { padding: 10px;
 
 .highlight{
     color: purple;
-    background-color: rgb(240, 186, 138);
-    padding: 10px;
-    margin: 50px;
+    background-color: #feddb6;
+    padding: 50px;
+    margin: 25px;
 }
 
-h2 { font-style: italic;}
+h2 { font-style: italic;
+    color: #3895d3;
+
+}
 
 main{
     margin:25px;
     background-color: white;
-    padding: 25px;
+    padding: 50px;
 }
 nav {background-color: plum;}
 
 a:link {text-decoration: none; color: black;}
 a:hover {text-decoration: underline; color: orange}
+
+table, th, td {
+    border: 1px solid black;
+}
